@@ -30,13 +30,3 @@
 - seaborn
 - Jupyter Notebook
 
-## Структура проекта
-
-\`\`\`
-.
-├── practice-01-pandas-Ovsiannikov.ipynb   # основной ноутбук с решением
-├── end_seminar.xlsx                       # исходные данные
-├── res_fall.csv                           # итоговое распределение на осенние курсы
-├── res_spring.csv                         # итоговое распределение на весенние курсы
-└── README.md
-\`\`\`
